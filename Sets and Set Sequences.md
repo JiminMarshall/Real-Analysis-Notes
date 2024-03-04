@@ -109,7 +109,7 @@ S-\limsup_{n\to\infty}A_n={}&S-\bigcup_{n\to\infty}^{\infty}\bigcap_{m=n}^{\inft
 \end{align*}
 ```
 
-If $\displaystyle\limsup_{n\to\infty}A_n=\liminf_{n\to\infty}A_n=A$, we say set series $\{A_n:n\in\mathbb{N}\}$ converges. $A$ is called the limit of $`\{A_n:n = 1,2,\dots\}`$, denoted by $\displaystyle\lim_{n\to\infty}A_n=A$.
+If $\displaystyle\limsup_{n\to\infty}A_n=\liminf_{n\to\infty}A_n=A$, we say set series $`\{A_n:n\in\mathbb{N}\}`$ converges. $A$ is called the limit of $`\{A_n:n = 1,2,\dots\}`$, denoted by $\displaystyle\lim_{n\to\infty}A_n=A$.
 
 **Monotonic Set Series**
 Say set series $\{A_n:n=1,2,\dots\}$ to be monotonicly increasing, if 
